@@ -34,6 +34,8 @@ Application in the domain of generation of meshes.
 Application in the domain of generation of meshes from biomedical images.
 
 
+## [FinEtoolsTestAll](https://github.com/PetrKryslUCSD/FinEtoolsTestAll.jl)
 
+Test all the above packages: download, build, test. All in one place.
 
 
