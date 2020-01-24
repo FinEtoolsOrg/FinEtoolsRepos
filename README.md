@@ -34,6 +34,12 @@ Application in the domain of generation of meshes.
 Application in the domain of generation of meshes from biomedical images.
 
 
+## [FinEtoolsVibInFluids](https://github.com/PetrKryslUCSD/FinEtoolsVibInFluids.jl)
+
+Application for free-vibration of analysis of structures submerged partially or full in inviscid fluids.
+Combined FEM/BEM approach.
+
+
 ## [FinEtoolsTestAll](https://github.com/PetrKryslUCSD/FinEtoolsTestAll.jl)
 
 Test all the above packages: download, build, test. All in one place.
