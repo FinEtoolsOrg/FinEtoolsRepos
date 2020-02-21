@@ -40,6 +40,10 @@ Application for free-vibration of analysis of structures submerged partially or 
 Combined FEM/BEM approach.
 
 
+## [FinEtoolsFlexBeams](https://github.com/PetrKryslUCSD/FinEtoolsFlexBeams.jl)
+
+Application for nonlinear static and dynamic analysis of structures made up of flexible elastic beams.
+
 ## [FinEtoolsTestAll](https://github.com/PetrKryslUCSD/FinEtoolsTestAll.jl)
 
 Test all the above packages: download, build, test. All in one place.
