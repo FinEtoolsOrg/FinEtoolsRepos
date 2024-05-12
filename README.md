@@ -86,3 +86,8 @@ Coherent Nodal Cluster model-order-reduction technique.
 Application in the domain of free vibration analysis of  3D structures with the 
 Coherent Nodal Cluster model-order-reduction technique.
 
+
+## [FinEtoolsMultithreading](https://github.com/PetrKryslUCSD/FinEtoolsMultithreading.jl)
+
+Parallelization of the application packages with multiple threads.
+
